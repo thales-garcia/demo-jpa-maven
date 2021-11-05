@@ -23,7 +23,6 @@
       <change afterPath="$PROJECT_DIR$/../demo-dao-jdbc-1/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-dao-jdbc-1/src/model/entities/Department.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-dao-jdbc-1/src/model/entities/Seller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
