@@ -23,11 +23,7 @@
       <change afterPath="$PROJECT_DIR$/../demo-dao-jdbc-1/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-dao-jdbc-1/src/model/entities/Department.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo-dao-jdbc-1/src/model/entities/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/domain/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/Pessoa.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

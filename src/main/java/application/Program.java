@@ -15,11 +15,16 @@ public class Program {
 
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("exemplo-jpa"); //same name in persistence.xml (persistence unit)
         EntityManager em = emf.createEntityManager();
+
         em.getTransaction().begin();
         em.persist(p1); //save the object (p1) in database
         em.persist(p2); //save the object (p2) in database
         em.getTransaction().commit();
+
         System.out.println("Done!");
+
+        em.close();
+        emf.close();
 
     }
 
